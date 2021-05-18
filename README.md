@@ -1,2 +1,2 @@
-# Hyper-fNIRS
-Hyper-resolution fNIRS imaging system
+# HyperfNIRS
+Preliminary work on a hyper-resolution fNIRS imaging system. More to follow soon hopefully...
